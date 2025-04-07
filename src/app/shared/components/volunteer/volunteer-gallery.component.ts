@@ -13,7 +13,7 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
 export class VolunteerGalleryComponent {
   galleryImages = [
     {
-      url: 'assets/images/gallery/english-workshop.jpg',
+      url: 'assets/images/gallery/test.jpg',
       caption: 'English Teaching Workshop'
     },
     {
